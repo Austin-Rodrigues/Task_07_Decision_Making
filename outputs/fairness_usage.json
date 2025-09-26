@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "usage_group": "high_usage",
+      "goals": 309,
+      "shots": 628,
+      "players": 10,
+      "shot_pct": 49.203821656050955
+    },
+    {
+      "usage_group": "low_usage",
+      "goals": 10,
+      "shots": 29,
+      "players": 24,
+      "shot_pct": 34.48275862068966
+    }
+  ],
+  "shot_pct_disparity_high_minus_low": 14.72
+}

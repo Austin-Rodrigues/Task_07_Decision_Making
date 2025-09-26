@@ -1,0 +1,355 @@
+Test 1 Prompt for Claude:
+[
+Syracuse Women's Lacrosse 2024 Season Statistics:
+
+TEAM RECORD: 16-6 (22 games)
+- Home: 9-2
+- Away: 5-2  
+- Conference: 9-1
+
+TOP PERFORMERS:
+- Meaghan Tyrrell: 70G, 32A, 102Pts, 115 shots (60.9%)
+- Olivia Adamson: 58G, 25A, 83Pts, 109 shots (53.2%)
+- Emma Ward: 44G, 37A, 81Pts, 90 shots (48.9%)
+- Maddy Baxter: 30G, 6A, 36Pts, 64 shots (46.9%)
+- Sam Swart: 29G, 18A, 47Pts, 53 shots (54.7%)
+- Savannah Sweitzer: 24G, 9A, 33Pts, 54 shots (44.4%)
+- Payton Rowley: 23G, 15A, 38Pts, 55 shots (41.8%)
+- Emma Madnick: 14G, 13A, 27Pts, 42 shots (33.3%)
+- Jody Cerullo: 11G, 3A, 14Pts, 29 shots (37.9%)
+- Kendall Rose: 8G, 1A, 9Pts, 11 shots (72.7%)
+
+TEAM TOTALS: 319 Goals, 167 Assists
+
+Question: What was Syracuse Women's Lacrosse team record for the 2024 season?  
+]
+
+Answer:
+[
+Based on the statistics you provided, Syracuse Women's Lacrosse had a 16-6 record for the 2024 season, playing 22 total games.
+Their record breakdown was:
+
+Home: 9-2
+Away: 5-2
+Conference: 9-1
+
+This was a strong season for Syracuse, with particularly impressive conference play where they went 9-1.
+]
+
+==================================================
+VALIDATION RESULT:
+Accuracy: ✓ CORRECT
+Expected: 16-6
+==================================================
+
+Test 2 Prompt for Claude:
+[
+Syracuse Women's Lacrosse 2024 Season Statistics:
+
+TEAM RECORD: 16-6 (22 games)
+- Home: 9-2
+- Away: 5-2
+- Conference: 9-1
+
+TOP PERFORMERS:
+- Meaghan Tyrrell: 70G, 32A, 102Pts, 115 shots (60.9%)
+- Olivia Adamson: 58G, 25A, 83Pts, 109 shots (53.2%)
+- Emma Ward: 44G, 37A, 81Pts, 90 shots (48.9%)
+- Maddy Baxter: 30G, 6A, 36Pts, 64 shots (46.9%)
+- Sam Swart: 29G, 18A, 47Pts, 53 shots (54.7%)
+- Savannah Sweitzer: 24G, 9A, 33Pts, 54 shots (44.4%)
+- Payton Rowley: 23G, 15A, 38Pts, 55 shots (41.8%)
+- Emma Madnick: 14G, 13A, 27Pts, 42 shots (33.3%)
+- Jody Cerullo: 11G, 3A, 14Pts, 29 shots (37.9%)
+- Kendall Rose: 8G, 1A, 9Pts, 11 shots (72.7%)
+
+TEAM TOTALS: 319 Goals, 167 Assists
+
+Question: How many total games did Syracuse play in the 2024 season?
+]
+
+Answer:
+[
+According to the statistics you provided, Syracuse Women's Lacrosse played 22 total games in the 2024 season.
+This is shown in their overall record of 16-6 (22 games), which breaks down to 16 wins and 6 losses for a total of 22 games played.
+]
+
+==================================================
+VALIDATION RESULT:
+Accuracy: ✓ CORRECT
+Expected: 22
+==================================================
+
+Test 3 Prompt for Claude:
+[
+Syracuse Women's Lacrosse 2024 Season Statistics:
+
+TEAM RECORD: 16-6 (22 games)
+- Home: 9-2
+- Away: 5-2
+- Conference: 9-1
+
+TOP PERFORMERS:
+- Meaghan Tyrrell: 70G, 32A, 102Pts, 115 shots (60.9%)
+- Olivia Adamson: 58G, 25A, 83Pts, 109 shots (53.2%)
+- Emma Ward: 44G, 37A, 81Pts, 90 shots (48.9%)
+- Maddy Baxter: 30G, 6A, 36Pts, 64 shots (46.9%)
+- Sam Swart: 29G, 18A, 47Pts, 53 shots (54.7%)
+- Savannah Sweitzer: 24G, 9A, 33Pts, 54 shots (44.4%)
+- Payton Rowley: 23G, 15A, 38Pts, 55 shots (41.8%)
+- Emma Madnick: 14G, 13A, 27Pts, 42 shots (33.3%)
+- Jody Cerullo: 11G, 3A, 14Pts, 29 shots (37.9%)
+- Kendall Rose: 8G, 1A, 9Pts, 11 shots (72.7%)
+
+TEAM TOTALS: 319 Goals, 167 Assists
+
+Question: Who was Syracuse's leading goal scorer in 2024 and how many goals did they score?
+]
+
+Answer:
+[
+Syracuse's leading goal scorer in 2024 was Meaghan Tyrrell with 70 goals.
+Tyrrell had an outstanding season, not only leading the team in goals but also in total points with 102 (70 goals + 32 assists). She also had an impressive shooting percentage of 60.9% on 115 shots.
+]
+
+==================================================
+VALIDATION RESULT:
+Accuracy: ✓ CORRECT
+Expected: Meaghan Tyrrell (70 goals)
+Notes: Correctly included goal count
+==================================================
+
+Test 4 Prompt for Claude:
+[
+Syracuse Women's Lacrosse 2024 Season Statistics:
+
+TEAM RECORD: 16-6 (22 games)
+- Home: 9-2
+- Away: 5-2
+- Conference: 9-1
+
+TOP PERFORMERS:
+- Meaghan Tyrrell: 70G, 32A, 102Pts, 115 shots (60.9%)
+- Olivia Adamson: 58G, 25A, 83Pts, 109 shots (53.2%)
+- Emma Ward: 44G, 37A, 81Pts, 90 shots (48.9%)
+- Maddy Baxter: 30G, 6A, 36Pts, 64 shots (46.9%)
+- Sam Swart: 29G, 18A, 47Pts, 53 shots (54.7%)
+- Savannah Sweitzer: 24G, 9A, 33Pts, 54 shots (44.4%)
+- Payton Rowley: 23G, 15A, 38Pts, 55 shots (41.8%)
+- Emma Madnick: 14G, 13A, 27Pts, 42 shots (33.3%)
+- Jody Cerullo: 11G, 3A, 14Pts, 29 shots (37.9%)
+- Kendall Rose: 8G, 1A, 9Pts, 11 shots (72.7%)
+
+TEAM TOTALS: 319 Goals, 167 Assists
+
+Question: How many total goals did the Syracuse team score in 2024?
+]
+
+Answer:
+[
+According to the team totals provided, Syracuse Women's Lacrosse scored 319 goals as a team during the 2024 season.
+The team also recorded 167 assists for a total of 486 points (319 goals + 167 assists).
+]
+
+==================================================
+VALIDATION RESULT:
+Accuracy: ✓ CORRECT
+Expected: 319
+==================================================
+Test 5 Prompt for Claude:
+[
+Syracuse Women's Lacrosse 2024 Season Statistics:
+
+TEAM RECORD: 16-6 (22 games)
+- Home: 9-2
+- Away: 5-2
+- Conference: 9-1
+
+TOP PERFORMERS:
+- Meaghan Tyrrell: 70G, 32A, 102Pts, 115 shots (60.9%)
+- Olivia Adamson: 58G, 25A, 83Pts, 109 shots (53.2%)
+- Emma Ward: 44G, 37A, 81Pts, 90 shots (48.9%)
+- Maddy Baxter: 30G, 6A, 36Pts, 64 shots (46.9%)
+- Sam Swart: 29G, 18A, 47Pts, 53 shots (54.7%)
+- Savannah Sweitzer: 24G, 9A, 33Pts, 54 shots (44.4%)
+- Payton Rowley: 23G, 15A, 38Pts, 55 shots (41.8%)
+- Emma Madnick: 14G, 13A, 27Pts, 42 shots (33.3%)
+- Jody Cerullo: 11G, 3A, 14Pts, 29 shots (37.9%)
+- Kendall Rose: 8G, 1A, 9Pts, 11 shots (72.7%)
+
+TEAM TOTALS: 319 Goals, 167 Assists
+
+Question: Who led Syracuse in assists in 2024?
+]
+
+Answer:
+[
+Emma Ward led Syracuse in assists in 2024 with 37 assists.
+Ward was a well-rounded offensive contributor, recording 44 goals and 37 assists for 81 total points, making her the team's third-leading scorer overall. Her 37 assists were significantly higher than the next closest player - Meaghan Tyrrell had 32 assists despite leading the team in goals and points.
+]
+
+==================================================
+VALIDATION RESULT:
+Accuracy: ✓ CORRECT
+Expected: Emma Ward (37 assists)
+==================================================
+
+Test 6 Prompt for Claude:
+[
+Syracuse Women's Lacrosse 2024 Season Statistics:
+
+TEAM RECORD: 16-6 (22 games)
+- Home: 9-2
+- Away: 5-2
+- Conference: 9-1
+
+TOP PERFORMERS:
+- Meaghan Tyrrell: 70G, 32A, 102Pts, 115 shots (60.9%)
+- Olivia Adamson: 58G, 25A, 83Pts, 109 shots (53.2%)
+- Emma Ward: 44G, 37A, 81Pts, 90 shots (48.9%)
+- Maddy Baxter: 30G, 6A, 36Pts, 64 shots (46.9%)
+- Sam Swart: 29G, 18A, 47Pts, 53 shots (54.7%)
+- Savannah Sweitzer: 24G, 9A, 33Pts, 54 shots (44.4%)
+- Payton Rowley: 23G, 15A, 38Pts, 55 shots (41.8%)
+- Emma Madnick: 14G, 13A, 27Pts, 42 shots (33.3%)
+- Jody Cerullo: 11G, 3A, 14Pts, 29 shots (37.9%)
+- Kendall Rose: 8G, 1A, 9Pts, 11 shots (72.7%)
+
+TEAM TOTALS: 319 Goals, 167 Assists
+
+Question: Calculate the shooting percentage for Syracuse's top 3 goal scorers. Who was most efficient?
+]
+
+Answer:
+[
+Looking at Syracuse's top 3 goal scorers from the 2024 season:
+Top 3 Goal Scorers and Their Shooting Percentages:
+
+Meaghan Tyrrell - 70 goals on 115 shots = 60.9%
+Olivia Adamson - 58 goals on 109 shots = 53.2%
+Emma Ward - 44 goals on 90 shots = 48.9%
+
+Most Efficient: Meaghan Tyrrell was the most efficient of the top 3 scorers with a 60.9% shooting percentage. Not only did she lead the team in goals, but she also converted at the highest rate among the top scorers, making her an exceptionally effective finisher.
+It's worth noting that Tyrrell's efficiency becomes even more impressive when considering the volume - she took 115 shots (the most among all players) while maintaining the highest conversion rate of the top scorers.
+]
+==================================================
+VALIDATION RESULT:
+Accuracy: ✓ CORRECT
+Expected: [{'player': 'Meaghan Tyrrell', 'shooting_pct': 60.9}, {'player': 'Olivia Adamson', 'shooting_pct': 53.2}, {'player': 'Emma Ward', 'shooting_pct': 48.9}]
+==================================================
+
+Test 7 Prompt for Claude:
+[
+Syracuse Women's Lacrosse 2024 Season Statistics:
+
+TEAM RECORD: 16-6 (22 games)
+- Home: 9-2
+- Away: 5-2
+- Conference: 9-1
+
+TOP PERFORMERS:
+- Meaghan Tyrrell: 70G, 32A, 102Pts, 115 shots (60.9%)
+- Olivia Adamson: 58G, 25A, 83Pts, 109 shots (53.2%)
+- Emma Ward: 44G, 37A, 81Pts, 90 shots (48.9%)
+- Maddy Baxter: 30G, 6A, 36Pts, 64 shots (46.9%)
+- Sam Swart: 29G, 18A, 47Pts, 53 shots (54.7%)
+- Savannah Sweitzer: 24G, 9A, 33Pts, 54 shots (44.4%)
+- Payton Rowley: 23G, 15A, 38Pts, 55 shots (41.8%)
+- Emma Madnick: 14G, 13A, 27Pts, 42 shots (33.3%)
+- Jody Cerullo: 11G, 3A, 14Pts, 29 shots (37.9%)
+- Kendall Rose: 8G, 1A, 9Pts, 11 shots (72.7%)
+
+TEAM TOTALS: 319 Goals, 167 Assists
+
+Question: Analyze Syracuse's offensive balance. How many players scored at least 10 goals? What does this suggest about their offensive depth?
+]
+
+Answer:
+[
+Analyzing Syracuse's Offensive Balance:
+Players with at least 10 goals: 8 players
+
+Meaghan Tyrrell: 70G
+Olivia Adamson: 58G
+Emma Ward: 44G
+Maddy Baxter: 30G
+Sam Swart: 29G
+Savannah Sweitzer: 24G
+Payton Rowley: 23G
+Emma Madnick: 14G
+
+What this suggests about offensive depth:
+Strong Depth: Having 8 players reach double-digit goals demonstrates excellent offensive balance. This is a significant strength for several reasons:
+
+Multiple Scoring Threats: Opponents can't focus defensively on just one or two players - Syracuse had legitimate scoring threats throughout their lineup.
+Balanced Attack: While Tyrrell and Adamson were clearly the primary scorers (128 goals combined), the team had 6 additional players contributing meaningfully to the offense, preventing over-reliance on star players.
+Difficult to Defend: With this many scoring options, defensive game plans become much more complex. Taking away the top scorers still leaves multiple dangerous offensive players.
+Injury Insurance: This depth likely provided resilience if key players were injured or having off games.
+
+The fact that 8 players scored 10+ goals out of a total 319 team goals (accounting for 320 goals from these players alone) shows this wasn't just a top-heavy offense - it was a truly balanced attack that could hurt opponents in multiple ways.
+]
+==================================================
+VALIDATION RESULT:
+Accuracy: ✗ INCORRECT
+Expected: 9
+Error Type: incorrect_offensive_depth
+Notes: Expected 9, found: [10.0, 8.0, 8.0, 128.0, 6.0, 8.0, 10.0, 319.0, 320.0]  
+==================================================
+Test 8 Prompt for Claude:
+[
+Syracuse Women's Lacrosse 2024 Season Statistics:
+
+TEAM RECORD: 16-6 (22 games)
+- Home: 9-2
+- Away: 5-2
+- Conference: 9-1
+
+TOP PERFORMERS:
+- Meaghan Tyrrell: 70G, 32A, 102Pts, 115 shots (60.9%)
+- Olivia Adamson: 58G, 25A, 83Pts, 109 shots (53.2%)
+- Emma Ward: 44G, 37A, 81Pts, 90 shots (48.9%)
+- Maddy Baxter: 30G, 6A, 36Pts, 64 shots (46.9%)
+- Sam Swart: 29G, 18A, 47Pts, 53 shots (54.7%)
+- Savannah Sweitzer: 24G, 9A, 33Pts, 54 shots (44.4%)
+- Payton Rowley: 23G, 15A, 38Pts, 55 shots (41.8%)
+- Emma Madnick: 14G, 13A, 27Pts, 42 shots (33.3%)
+- Jody Cerullo: 11G, 3A, 14Pts, 29 shots (37.9%)
+- Kendall Rose: 8G, 1A, 9Pts, 11 shots (72.7%)
+
+TEAM TOTALS: 319 Goals, 167 Assists
+
+As a coach analyzing Syracuse's 2024 season (16-6 record), answer:
+1. What were the team's main offensive strengths?
+2. If you wanted to improve to 18-4 next season, what specific areas would you focus on?
+3. Which player had the biggest impact beyond just goals scored?
+]
+
+Answer:
+[
+**Coaching Analysis of Syracuse's 2024 Season:**
+
+**1. Main Offensive Strengths:**
+
+- **Elite Finishing Efficiency:** Multiple players shot above 50% (Tyrrell 60.9%, Swart 54.7%, Adamson 53.2%), indicating excellent shot selection and finishing ability
+- **Exceptional Depth:** 8 players scored 10+ goals, making the offense nearly impossible to shut down with traditional defensive schemes
+- **Balanced Scoring Distribution:** While having clear stars, the team didn't rely too heavily on any single player - losing a top scorer wouldn't cripple the offense
+- **Strong Playmaking:** 167 total assists show good ball movement and unselfish play, particularly from Ward (37A) and Tyrrell (32A)
+
+**2. Areas to Focus on for 18-4 Improvement:**
+
+- **Road Performance:** 5-2 away record suggests room for improvement in hostile environments - work on mental toughness and maintaining composure
+- **Shot Volume from Secondary Scorers:** Players like Madnick (33.3%) and Rowley (41.8%) could benefit from shooting efficiency work to maximize their opportunities
+- **Defensive Consistency:** With strong offensive numbers, the 6 losses likely came from defensive lapses - focus on transition defense and caused turnovers
+- **Conference Dominance:** 9-1 conference record shows one slip-up that cost potential seeding - work on maintaining focus against "weaker" opponents
+
+**3. Biggest Impact Beyond Goals:**
+
+**Emma Ward** - While she was the 3rd leading scorer (44G), her 37 assists (most on team) made her the true offensive catalyst. Her playmaking created opportunities for teammates and her well-rounded game (81 total points) suggests she was the engine that made the balanced attack possible. A player who can both score and facilitate at elite levels is invaluable to team success.
+]
+==================================================
+VALIDATION RESULT:
+Accuracy: ✗ INCORRECT
+Expected: Rubric-based (Specificity, Actionability, Plausibility >= 3)
+Error Type: insufficient_rubric_scores
+Notes: Scores: {'specificity': 2, 'actionability': 5, 'plausibility': 2}
+==================================================

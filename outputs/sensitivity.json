@@ -1,0 +1,31 @@
+{
+  "threshold_10": {
+    "threshold": 10,
+    "players_meeting_threshold": 9,
+    "names": [
+      "Meaghan Tyrrell",
+      "Olivia Adamson",
+      "Emma Ward",
+      "Sam Swart",
+      "Payton Rowley",
+      "Maddy Baxter",
+      "Savannah Sweitzer",
+      "Emma Madnick",
+      "Jody Cerullo"
+    ]
+  },
+  "threshold_12": {
+    "threshold": 12,
+    "players_meeting_threshold": 8,
+    "names": [
+      "Meaghan Tyrrell",
+      "Olivia Adamson",
+      "Emma Ward",
+      "Sam Swart",
+      "Payton Rowley",
+      "Maddy Baxter",
+      "Savannah Sweitzer",
+      "Emma Madnick"
+    ]
+  }
+}

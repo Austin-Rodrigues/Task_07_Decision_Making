@@ -1,0 +1,56 @@
+{
+  "total_games": 22,
+  "season_record": "16-6",
+  "wins": 16,
+  "losses": 6,
+  "top_scorer": "Meaghan Tyrrell",
+  "top_scorer_goals": 70,
+  "top_assist": "Emma Ward",
+  "top_assist_count": 37,
+  "top_points": "Meaghan Tyrrell",
+  "top_points_count": 102,
+  "total_goals": 319,
+  "total_assists": 167,
+  "total_points": 486,
+  "best_shooter": "Kendall Rose",
+  "best_shooting_pct": 72.72727272727273,
+  "active_scorers": 11,
+  "top3_shooting": [
+    {
+      "player": "Meaghan Tyrrell",
+      "shooting_pct": 60.9
+    },
+    {
+      "player": "Olivia Adamson",
+      "shooting_pct": 53.2
+    },
+    {
+      "player": "Emma Ward",
+      "shooting_pct": 48.9
+    }
+  ],
+  "top3_shooting_ci": [
+    {
+      "player": "Meaghan Tyrrell",
+      "shooting_pct_ci": [
+        51.7,
+        69.3
+      ]
+    },
+    {
+      "player": "Olivia Adamson",
+      "shooting_pct_ci": [
+        43.9,
+        62.3
+      ]
+    },
+    {
+      "player": "Emma Ward",
+      "shooting_pct_ci": [
+        38.8,
+        59.0
+      ]
+    }
+  ],
+  "count_ge_10_goals": 9
+}

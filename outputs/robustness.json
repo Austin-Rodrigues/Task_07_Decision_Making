@@ -1,0 +1,17 @@
+{
+  "remove_top1": {
+    "removed_players": [
+      "Meaghan Tyrrell"
+    ],
+    "team_goals": 249,
+    "team_shot_pct": 45.94
+  },
+  "remove_top2": {
+    "removed_players": [
+      "Meaghan Tyrrell",
+      "Olivia Adamson"
+    ],
+    "team_goals": 191,
+    "team_shot_pct": 44.11
+  }
+}
